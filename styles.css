@@ -1,0 +1,34 @@
+.container-fondo {
+
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    background: black;
+
+
+}
+
+.container-fotos {
+    width: 700px;
+    height: 700px;
+    margin: 25px;
+    padding-top: 15px;
+    padding-left: 350px;
+    background-color: orange;
+}
+
+.container-elemento {
+
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: blue;
+
+}
+
+.fotos {
+    width: 150px;
+    height: 150px;
+    padding: 25px;
+    
+}
